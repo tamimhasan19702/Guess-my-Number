@@ -12,7 +12,7 @@ const displayNumber = (num) => {
 
 const check = document.querySelector(".check");
 
-let score = document.querySelector(".score").textContent =  20;
+let score = document.querySelector(".score").textContent =  10;
 
 const displayScore = (scr) => {
   document.querySelector(".score").textContent = scr;
